@@ -1,0 +1,88 @@
+[
+  {
+  "city": "London",
+  "population": 8615000,
+  "country": "United Kingdom"
+},
+  {
+    "city": "Manchester",
+    "population": 5215000,
+    "country": "United Kingdom"
+  },
+  {
+    "city": "Liverpool",
+    "population": 5315111,
+    "country": "United Kingdom"
+  },
+
+  {
+    "city": "Munich",
+    "population": 3394000,
+    "country": "Germany"
+  },
+  {
+    "city": "Berlin",
+    "population": 5094000,
+    "country": "Germany"
+  },
+  {
+    "city": "Frankfurt",
+    "population": 2094000,
+    "country": "Germany"
+  },
+  {
+    "city": "Barcelona",
+    "population": 1602000,
+    "country": "Spain"
+  },
+  {
+    "city": "Madrid",
+    "population": 1602034,
+    "country": "Spain"
+  },
+  {
+  "name": "Los Angeles",
+  "population": 3819702,
+  "country": "USA"
+},
+  {
+  "name": "Miami",
+  "population": 4219856,
+  "country": "USA"
+},
+  {
+    "name": "Chikago",
+    "population": 4319888,
+    "country": "USA"
+  },
+  {
+    "name": "New York",
+    "population": 12019702,
+    "country": "USA"
+  },
+  {
+    "name": "Paris",
+    "population": 2867702,
+    "country": "France"
+  },
+  {
+    "name": "Milan",
+    "population": 1867734,
+    "country": "Italy"
+  },
+  {
+    "name": "Kyiv",
+    "population": 4067734,
+    "country": "Ukraine"
+  },
+  {
+    "name": "Moscow",
+    "population": 9067734,
+    "country": "Russia"
+  },
+  {
+    "name": "Istanbul",
+    "population": 14067734,
+    "country": "Turkey"
+  }
+]
